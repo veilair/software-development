@@ -31,7 +31,7 @@ An ongoing curated list of frameworks, books, articles, talks, libraries, learni
 - [Events](#events)
 - [Testing](#testing)
 - [Articles](#articles)
-- [Talks](#articles)
+- [Talks](#talks)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
