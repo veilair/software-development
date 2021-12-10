@@ -1,6 +1,6 @@
 # Software Development
 > Welcome to the Development side of Software
-An ongoing curated list of frameworks, books, articles, libraries, learning tutorials and resources about software development.
+An ongoing curated list of frameworks, books, articles, talks, libraries, learning tutorials and resources about software development.
 
 
 ## Contents
