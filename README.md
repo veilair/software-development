@@ -3,7 +3,7 @@
 An ongoing curated list of frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and resources about software development.
 
 
-## Contents
+## `Table of Contents`
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
